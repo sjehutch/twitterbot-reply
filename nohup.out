@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "hello.py", line 30, in <module>
+    s = api.update_status(m, s.id)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/tweepy/api.py", line 194, in update_status
+    )(post_data=post_data, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/tweepy/binder.py", line 245, in _call
+    return method.execute()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/tweepy/binder.py", line 229, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'message': 'Status is a duplicate.', 'code': 187}]
