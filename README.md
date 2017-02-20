@@ -1,11 +1,11 @@
-# twitterbot-reply=python
+# twitterbot-replypython
 
 
 ##This bot has  main use 
-`1. It listense for a keyword example right now fitnes
-`2. it responds to the user who tweeted it with a generic text, @symbol and image
+-1. It listens for a keyword example right now fitnes
+-2. it responds to the user who tweeted it with a generic text, @symbol and image
 
-`the tools used in this project were python3 
+-the tools used in this project were python3 
 
 ###You will want to import the following in your main .py file (i called mine hello.py) 
 
