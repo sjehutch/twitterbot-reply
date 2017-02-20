@@ -1,4 +1,4 @@
-# twitterbot-replypython
+# twitterbot-reply-python
 
 
 ##This bot has  main use 
@@ -16,7 +16,7 @@ import time    #time module for the sleep function
 import sys     #system for importing images to your tweet
 import requests
 import os
-```python
+```
 
 **Step 1** 
 Create a twitter application by going to https://apps.twitter.com > Create new 
