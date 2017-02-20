@@ -9,7 +9,7 @@
 
 ###You will want to import the following in your main .py file (i called mine hello.py) 
 
-```python
+```
 import tweepy #Library for twitter writeen in python
 import logging #Logging Duh
 import time    #time module for the sleep function
