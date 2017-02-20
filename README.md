@@ -1,5 +1,9 @@
 # twitterbot-reply-python
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8421ccaf63124572bc95a45103c81031)](https://www.codacy.com/app/sjehutch/twitterbot-reply?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sjehutch/twitterbot-reply&amp;utm_campaign=Badge_Grade)
+
+
+
 
 ##This bot has  main use 
 1. It listens for a keyword example right now fitnes
