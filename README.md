@@ -33,10 +33,10 @@ Download this repo
 Update the keys with your keys otherwise you will be spamming with my twitter account :-)
 
 **Step4**
-Update and play around with the code (make sure you create a branch of your own first 
+Update and play around with the code (make sure you create a branch of your own first)
 
 **Step 5** 
-save the py file run python hello.y and check out your twitter feed 
+save the py file run python hello.py and check out your twitter feed 
 
 
 ### to-dos 
