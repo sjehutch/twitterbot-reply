@@ -5,7 +5,7 @@
 
 
 
-## This bot has  main use 
+## This bot has 2 main uses 
 1. It listens for a keyword example right now fitnes
 
 2. it responds to the user who tweeted it with a generic text, @symbol and image
